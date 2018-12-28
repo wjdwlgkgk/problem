@@ -8,6 +8,8 @@ public class problem {
             sum += i;
         }
         System.out.println("합계는 : " + sum);
+        System.out.println("다음 정차 역은 7호선입니다.");
+
     }
 
 
